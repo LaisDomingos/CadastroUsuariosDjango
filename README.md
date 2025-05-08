@@ -1,4 +1,4 @@
-# Cadastro de Usuários com Djonga
+# Cadastro de Usuários com Django
 
 ## Descrição
 Este é um projeto simples de cadastro de usuários desenvolvido utilizando o framework Django, inspirado pelo tutorial do canal "Dev Aprender | Jhonatan de Souza" no YouTube. A aplicação permite que novos usuários se cadastrem, armazenando informações básicas como nome, e-mail e senha. Além disso, proporciona uma funcionalidade de visualização dos usuários cadastrados, exibindo uma lista completa com seus respectivos detalhes.
