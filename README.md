@@ -16,3 +16,8 @@ Este é um projeto simples de cadastro de usuários desenvolvido utilizando o fr
 
 ## Referência ao Tutorial
 Este projeto foi desenvolvido seguindo o tutorial do canal "Dev Aprender | Jhonatan de Souza" no YouTube. Recomenda-se verificar o tutorial para obter instruções detalhadas e insights adicionais.
+
+![image](https://github.com/user-attachments/assets/98cfa02c-0537-402f-8ccc-01c8cba1885a)
+![image](https://github.com/user-attachments/assets/dfdcce74-5291-4ef0-a279-69433df2d525)
+
+
